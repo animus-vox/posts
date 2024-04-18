@@ -64,6 +64,22 @@ Today, as i see it, the four main incentives for the individual participant are:
   You can go to the previously linked github page, see this article in 'markdown' format, and suggest improvements.
 
 ### For who, open-source?
+EVERYONE!
+Often, open-source is seen as a code-only, software developer haven.  
+This could not be further from the truth - Games will need some one to create 3D models, some one to write a story, a voice actor!
+Applications may need translators, libraries may need someone to write a complex algorithm, and 
+practically every one could use a tester. There's a lot of work to be done, and there's room for everyone.
 
+Did we mention ideology? Take a seat, we're having the talk.
+With some variance, often FOSS projects are FOSS because the people behind those projects believe that most programs and technologies need to be available for everyone.  
+To allow individuals to invent, explore what else can be done, or just improve their quality of life.  
+If a program's FOSS, that means it's source is available, and anyone can use it, modify it and distribute it.
+This idea was, and still is, strong enough to create communities, advocates, and some of the most essential technologies used in software today.
 
+If you like this idea, GREAT! if not, that's fine too.
+Making contributions out of a more selfish need, such as learning how to work on new projects, gain experience, or just acquiring a new story for the guys, is alright, and you wouldn't be the first one to do it.
+Infact, some of the kind contributors are not self-less individuals, but large corporations which rely on the very same technologies. 
+In fact, the XZ Utils hack which we've talked about earlier? It was found by a Microsoft employee.
+No matter the reason, be it pure capitalism or just wanting to contribute, everyone's welcome to help.
 
+### How, open-source?
