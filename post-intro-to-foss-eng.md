@@ -83,3 +83,36 @@ In fact, the XZ Utils hack which we've talked about earlier? It was found by a M
 No matter the reason, be it pure capitalism or just wanting to contribute, everyone's welcome to help.
 
 ### How, open-source?
+Adventurer, you'd like to make a contribution, but you're unsure where to begin?
+Just like any good adventure, this process slightly varies from person to person.
+
+For starters, either you have an idea for to share with the world in the form of an open-source project, or you'd like to join an existing project, and help others fulfill their objective.  
+The first case is fairly simple:  
+- Pick a free, open-source license, which we like.
+  License agreements essentially define what others may do with your project, what are their obligations. You may consult [choosealicense](https://choosealicense.com/).
+- Publish the project in an appropriate place, and select a method for recieving and managing issues. Github is a common place, allowing version-control, listing issues, and people could easily see contacting details.
+  An old alternative would be to simply use mailing lists.
+- Note, it's important to attach the selected license to the project, often in a file, aptly named "license".
+- Now you may procceed as usual, and maybe someone would join your endeavour.
+
+The Alternative:
+Roll up your sleeves and reach into the depths of someone else's project.
+- *search* - Find a project which interests you, or which you happen to rely on and need it improved.
+  "But where do i begin?", you ask.
+  Well, i'd suggest you begin with a [good first issue](https://goodfirstissue.dev/), something fitting for a [first timer](https://www.firsttimersonly.com/) or even on [github](https://github.com/topics/good-first-issue).
+  Often, a much softer landing can be provided by a local community, so if there's a localized forum of some sort, it's good to join the ocnversation too.
+- *RTFM* - Is there a readme file? A wiki? any documentation or a contribution guide? Read it!
+  Often, a welcoming project would invest in documentation for future contributors, rely on it when possible.
+- *Repeat the previous step* - It's important. When the day comes you need a question answered from the maintainers of the porject, respect their time by doing your best, ask informed questions and you'll be getting effective answers.
+- *Contact the community* -If you know which issue you'd like to try to solve, it's a good idea to inform the maintainers of the project, so that there won't be multiple people working on the same issue. If you're unsure of which problem you should begin with, it's a good first question for the maintainers.
+- *Submit a patch* - So far, you've learned how to build the project, and some of the social norms. You've gained some experience by solving a problem.  
+Now it's time for another lesson: A review.
+Once you're finished with creating a patch, you'll submit it for review.
+after which you may be asked to make additional changes to your contribution - perhaps you've missed something, or simply didn't know better, and it's the reviewers job to find it, and inform you.
+Some back-and-forth of committing changes and getting re-reviewed, until, finally...
+
+Your contribution would be *accepted*.
+At this point, you deserve to be congratulated, you're now officially a contributor!
+Take a moment for yourself, process this achievement.
+
+Now you can do this again :)
