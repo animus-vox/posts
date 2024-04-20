@@ -7,10 +7,10 @@ On paper, the term doesn't mean much more than having public (open) access to th
 Yet, behind the same term, there are so many layers of ideologies and points of interest, of people - and organizations who drive many open source projects.
 
 In this series of posts, I will attempt to condense the world of open-source down to a quick-start guide, to make it accessible,  
-and actually provide people who want to contribute, but feel they need someone to "hold their hand", at least at the beginning.
+and provide people who want to contribute, but need someone to "hold their hand", at least at the beginning.
 
-But first, a caveat - here in most cases when referring to open source code, the intention is to FOSS -  
-"Free and Open Source Software" (which has slightly different criteria from the broader definition of open source code).  
+First, a caveat. Here in most cases when referring to open source code, we're actually talking about FOSS - "Free and Open Source Software".  
+which has slightly different criteria from the broader definition of open source code.
 
 Here, I'll try to answer the questions: Why open source? for who, open source? and how, open source?  
 Oh, and this article is ALSO 'open source', managed on [GitHub](https://github.com/animus-vox/posts/blob/main/post-intro-to-foss-eng.md).
@@ -50,13 +50,13 @@ Today, as i see it, the four main incentives for the individual participant are:
   Surprisingly, this is no surprise. as mentioned earlier, these public projects are EVERYWHERE, their licenses often allow modification of the code, but require the modifiers to include the same license,
   and of course, share it.
   This example represents the importance of the open-source community, which allows knowledge and tools to be shared, and enjoyed by everyone.  
-  It's often the base of many services which are nowadays as obvious as breathing air.
+  It's often the base of many services which are nowadays as obvious as breathing air.  
   It needs mainteinance, It needs to be improved, and it needs people to do it.
   
-  Surely, after this journey of persuasion, I'm sure the open-source high-life sounds shiny, wonderful, and full of praise.
-  Alas, this is usually not the case. For the sake of fairness, it's necessary to face reality.
-  Investing hours upon hours into something that is, essentially, a side project, is **hard**.
-  You'll need to find what drives you, whether it's a passion for creation or a clear goal of some sort, otherwise it will be hard to persist.
+Surely, after this journey of persuasion, I'm sure the open-source high-life sounds shiny, wonderful, and full of praise.  
+Alas, this is usually not the case. For the sake of fairness, it's necessary to face reality.  
+Investing hours upon hours into something that is, essentially, a side project, is **hard**.  
+You'll need to find what drives you, whether it's a passion for creation or a clear goal of some sort, otherwise it will be hard to persist.  
   > "A body that doesn't want to be in motion, will return to rest"  
   > *-Newton's lazy brother*
   
@@ -111,8 +111,9 @@ Once you're finished with creating a patch, you'll submit it for review.
 after which you may be asked to make additional changes to your contribution - perhaps you've missed something, or simply didn't know better, and it's the reviewers job to find it, and inform you.
 Some back-and-forth of committing changes and getting re-reviewed, until, finally...
 
-Your contribution would be *accepted*.
-At this point, you deserve to be congratulated, you're now officially a contributor!
+Your contribution is *accepted*.  
+At this point, you deserve to be congratulated, you're now officially a contributor!  
 Take a moment for yourself, process this achievement.
 
-Now you can do this again :)
+Now, you're free to choose a new issue, or even a new project.  
+Hopefully, you'll find that with every issue solved, both you and the project improve.
