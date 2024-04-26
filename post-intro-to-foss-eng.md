@@ -86,6 +86,8 @@ No matter the reason, be it pure capitalism or just wanting to contribute, every
 Adventurer, you'd like to make a contribution, but you're unsure where to begin?
 Just like any good adventure, this process slightly varies from person to person.
 
+NOTE: I am not a lawyer, and you should consult a lawyer before taking serious legal decisions.
+
 For starters, either you have an idea for to share with the world in the form of an open-source project, or you'd like to join an existing project, and help others fulfill their objective.  
 The first case is fairly simple:  
 - Pick a free, open-source license, which we like.
