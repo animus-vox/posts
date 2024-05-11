@@ -51,7 +51,7 @@ Today, as i see it, the four main incentives for the individual participant are:
   and of course, share it.
   This example represents the importance of the open-source community, which allows knowledge and tools to be shared, and enjoyed by everyone.  
   It's often the base of many services which are nowadays as obvious as breathing air.  
-  It needs mainteinance, It needs to be improved, and it needs people to do it.
+  It needs maintenance, It needs to be improved, and it needs people to do it.
   
 Surely, after this journey of persuasion, I'm sure the open-source high-life sounds shiny, wonderful, and full of praise.  
 Alas, this is usually not the case. For the sake of fairness, it's necessary to face reality.  
